@@ -1,0 +1,18 @@
+{
+	"java.configuration.updateBuildConfiguration": "automatic",
+	"java.format.settings.url": "https://raw.githubusercontent.com/google/styleguide/gh-pages/eclipse-java-google-style.xml",
+
+	"editor.detectIndentation": false,
+	"editor.insertSpaces": false,
+	"javascript.preferences.importModuleSpecifier": "non-relative",
+	"git.enableSmartCommit": true,
+	"editor.suggestSelection": "first",
+	"prettier.useTabs": true,
+	"prettier.trailingComma": "none",
+	"prettier.printWidth": 100,
+	"editor.formatOnSave": true,
+	"editor.formatOnPaste": true,
+	"prettier.singleQuote": true,
+	"prettier.arrowParens": "always",
+	"javascript.updateImportsOnFileMove.enabled": "always"
+}

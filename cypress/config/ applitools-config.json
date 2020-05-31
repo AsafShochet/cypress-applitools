@@ -1,0 +1,12 @@
+{
+	"url": "https://demo.applitools.com/gridHackathonV1.html",
+	"viewPorts": [
+		{ "width": 1200, "height": 700, "name": "chrome", "deviceName": "Laptop" },
+		{ "width": 1200, "height": 700, "name": "firefox", "deviceName": "Laptop" },
+		{ "width": 1200, "height": 700, "name": "edge", "deviceName": "Laptop" },
+		{ "width": 768, "height": 700, "name": "chrome", "deviceName": "Tablet" },
+		{ "width": 768, "height": 700, "name": "firefox", "deviceName": "Tablet" },
+		{ "width": 768, "height": 700, "name": "edge", "deviceName": "Tablet" },
+		{ "deviceName": "iphone-x", "screenOrientation": "portrait", "name": "chrome" }
+	]
+}
