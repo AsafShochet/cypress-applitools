@@ -1,0 +1,15 @@
+{
+	"version1": {
+		"url": "https://demo.applitools.com/gridHackathonV1.html",
+		"resultsFile": "results/Traditional-V1-TestResults.txt"
+	},
+	"version2": {
+		"url": "https://demo.applitools.com/gridHackathonV2.html",
+		"resultsFile": "results/Traditional-V2-TestResults.txt"
+	},
+	"traditionalViewPorts": [
+		{ "width": 1200, "height": 700, "deviceName": "Laptop" },
+		{ "width": 768, "height": 700, "deviceName": "Tablet" },
+		{ "deviceName": "iphone-x", "screenOrientation": "portrait" }
+	]
+}

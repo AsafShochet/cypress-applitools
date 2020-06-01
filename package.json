@@ -6,7 +6,11 @@
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"cypress:open": "cypress open",
-		"cypress:run": "cypress run --browser chrome --headless"
+		"cy:run": "cypress run --headless",
+		"cy:chrome": "cypress run --headless --browser chrome",
+		"cy:firefox": "cypress run --headless --browser firefox",
+		"cy:edge": "cypress run --headless --browser edge",
+		"cy:spec": "cypress run --headless --spec cypress/integration/TraditionalTestsV1/task2_shopping_experience_v1_spec.js"
 	},
 	"author": "",
 	"license": "ISC",

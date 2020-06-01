@@ -1,8 +1,0 @@
-{
-	"url": "https://demo.applitools.com/gridHackathonV1.html",
-	"viewPorts": [
-		{ "width": 1200, "height": 700, "deviceName": "Laptop" },
-		{ "width": 768, "height": 700, "deviceName": "Tablet" },
-		{ "deviceName": "iphone-x", "screenOrientation": "portrait" }
-	]
-}

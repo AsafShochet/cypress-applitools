@@ -1,0 +1,48 @@
+Task: 1, Test Name: Search Bar, DOM Id: #product_1, Browser: chrome, Viewport: 700X1200, Device: Laptop, Status: Pass
+Task: 1, Test Name: Product inside the grid, DOM Id: #product_1, Browser: chrome, Viewport: 700X1200, Device: Laptop, Status: Pass
+Task: 1, Test Name: Main menu, DOM Id: #DIV__mainmenu__15, Browser: chrome, Viewport: 700X1200, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cart button, DOM Id: #A__cartbt__49, Browser: chrome, Viewport: 700X1200, Device: Laptop, Status: Pass
+Task: 1, Test Name: Sidebar filters, DOM Id: #sidebar_filters, Browser: chrome, Viewport: 700X1200, Device: Laptop, Status: Pass
+Task: 1, Test Name: Filter button, DOM Id: #filterBtn, Browser: chrome, Viewport: 700X1200, Device: Laptop, Status: Pass
+Task: 1, Test Name: Cart number of items badge, DOM Id: #STRONG____50, Browser: chrome, Viewport: 700X1200, Device: Laptop, Status: Pass
+Task: 1, Test Name: Search Bar, DOM Id: #product_1, Browser: chrome, Viewport: 700X768, Device: Tablet, Status: Pass
+Task: 1, Test Name: Product inside the grid, DOM Id: #product_1, Browser: chrome, Viewport: 700X768, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cart button, DOM Id: #A__cartbt__49, Browser: chrome, Viewport: 700X768, Device: Tablet, Status: Pass
+Task: 1, Test Name: Cart number of items badge, DOM Id: #STRONG____50, Browser: chrome, Viewport: 700X768, Device: Tablet, Status: Pass
+Task: 1, Test Name: Search Bar, DOM Id: #product_1, Browser: chrome, Viewport: undefinedXundefined, Device: iphone-x, Status: Pass
+Task: 1, Test Name: Product inside the grid, DOM Id: #product_1, Browser: chrome, Viewport: undefinedXundefined, Device: iphone-x, Status: Pass
+Task: 1, Test Name: Cart button, DOM Id: #A__cartbt__49, Browser: chrome, Viewport: undefinedXundefined, Device: iphone-x, Status: Pass
+Task: 2, Test Name: products grid, DOM Id: #product_grid, Browser: electron, Viewport: 700X1200, Device: Laptop, Status: Pass
+Task: 2, Test Name: product 1, DOM Id: #product_1, Browser: electron, Viewport: 700X1200, Device: Laptop, Status: Pass
+Task: 2, Test Name: products grid, DOM Id: #product_grid, Browser: electron, Viewport: 700X768, Device: Tablet, Status: Pass
+Task: 2, Test Name: product 1, DOM Id: #product_1, Browser: electron, Viewport: 700X768, Device: Tablet, Status: Pass
+Task: 2, Test Name: product 2, DOM Id: #product_2, Browser: electron, Viewport: 700X768, Device: Tablet, Status: Pass
+Task: 2, Test Name: products grid, DOM Id: #product_grid, Browser: electron, Viewport: undefinedXundefined, Device: iphone-x, Status: Pass
+Task: 2, Test Name: product 1, DOM Id: #product_1, Browser: electron, Viewport: undefinedXundefined, Device: iphone-x, Status: Pass
+Task: 2, Test Name: product 2, DOM Id: #product_2, Browser: electron, Viewport: undefinedXundefined, Device: iphone-x, Status: Pass
+Task: 2, Test Name: products grid, DOM Id: #product_grid, Browser: electron, Viewport: 700X1200, Device: Laptop, Status: Pass
+Task: 2, Test Name: product 1, DOM Id: #product_1, Browser: electron, Viewport: 700X1200, Device: Laptop, Status: Pass
+Task: 2, Test Name: products grid, DOM Id: #product_grid, Browser: electron, Viewport: 700X768, Device: Tablet, Status: Pass
+Task: 2, Test Name: product 1, DOM Id: #product_1, Browser: electron, Viewport: 700X768, Device: Tablet, Status: Pass
+Task: 2, Test Name: product 2, DOM Id: #product_2, Browser: electron, Viewport: 700X768, Device: Tablet, Status: Pass
+Task: 2, Test Name: products grid, DOM Id: #product_grid, Browser: electron, Viewport: undefinedXundefined, Device: iphone-x, Status: Pass
+Task: 2, Test Name: product 1, DOM Id: #product_1, Browser: electron, Viewport: undefinedXundefined, Device: iphone-x, Status: Pass
+Task: 2, Test Name: product 2, DOM Id: #product_2, Browser: electron, Viewport: undefinedXundefined, Device: iphone-x, Status: Pass
+Task: 2, Test Name: products grid, DOM Id: #product_grid, Browser: electron, Viewport: 700X1200, Device: Laptop, Status: Pass
+Task: 2, Test Name: product 1, DOM Id: #product_1, Browser: electron, Viewport: 700X1200, Device: Laptop, Status: Pass
+Task: 2, Test Name: product 2, DOM Id: #product_2, Browser: electron, Viewport: 700X1200, Device: Laptop, Status: Pass
+Task: 2, Test Name: products grid, DOM Id: #product_grid, Browser: electron, Viewport: 700X768, Device: Tablet, Status: Pass
+Task: 2, Test Name: product 1, DOM Id: #product_1, Browser: electron, Viewport: 700X768, Device: Tablet, Status: Pass
+Task: 2, Test Name: product 2, DOM Id: #product_2, Browser: electron, Viewport: 700X768, Device: Tablet, Status: Pass
+Task: 2, Test Name: products grid, DOM Id: #product_grid, Browser: electron, Viewport: undefinedXundefined, Device: iphone-x, Status: Pass
+Task: 2, Test Name: product 1, DOM Id: #product_1, Browser: electron, Viewport: undefinedXundefined, Device: iphone-x, Status: Pass
+Task: 2, Test Name: product 2, DOM Id: #product_2, Browser: electron, Viewport: undefinedXundefined, Device: iphone-x, Status: Pass
+Task: undefined, Test Name: Black shoes filter option, DOM Id: #colors__Black, Browser: electron, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: undefined, Test Name: products grid, DOM Id: #product_grid, Browser: electron, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: undefined, Test Name: product 1, DOM Id: #product_1, Browser: electron, Viewport: 1200X700, Device: Laptop, Status: Pass
+Task: undefined, Test Name: products grid, DOM Id: #product_grid, Browser: electron, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: undefined, Test Name: product 1, DOM Id: #product_1, Browser: electron, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: undefined, Test Name: product 2, DOM Id: #product_2, Browser: electron, Viewport: 768X700, Device: Tablet, Status: Pass
+Task: undefined, Test Name: products grid, DOM Id: #product_grid, Browser: electron, Viewport: undefinedXundefined, Device: iphone-x, Status: Pass
+Task: undefined, Test Name: product 1, DOM Id: #product_1, Browser: electron, Viewport: undefinedXundefined, Device: iphone-x, Status: Pass
+Task: undefined, Test Name: product 2, DOM Id: #product_2, Browser: electron, Viewport: undefinedXundefined, Device: iphone-x, Status: Pass
